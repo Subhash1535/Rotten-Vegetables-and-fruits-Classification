@@ -1,4 +1,4 @@
-# 🍎🥦 Smart Sorting Classifier
+#Smart Sorting Classifier
 
 **Smart Sorting Classifier** is a deep learning-based project that classifies fruits and vegetables as **fresh** or **rotten** using transfer learning (VGG16) and a dataset from Roboflow. The project includes a clean, interactive Gradio web interface where users can upload an image and receive instant classification results.
 

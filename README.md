@@ -17,7 +17,7 @@
 ## 🗂️ Dataset
 
 - **Source:** [Roboflow](https://roboflow.com/)
-- **Project:** `ripescan-2`
+- **folder:** `ripescan-2`
 - **Classes:** Multiple categories of fruits and vegetables (fresh & rotten)
 - **Split:** Training / Validation / Test folders
 
